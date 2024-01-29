@@ -5,6 +5,8 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Iterator;
 
+a
+
 public class ej {
 	
 	void rellenar(double tablero[][], int num) {
